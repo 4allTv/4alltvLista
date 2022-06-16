@@ -1,0 +1,10 @@
+#EXTM3U size="big"
+#EXTINF:0 type="playlist" tvg-logo="http://ccdn.ai:80/ss-img/white.png", AO VIVO
+#EXTBG:http://ccdn.ai:80/ss-img/canais.jpg
+http://ccdn.ai:80/playlist.php?username=fabianasabbag&password=Fa71999914377&type=m3u_plus&output=ts&key=live
+#EXTINF:0 type="playlist" tvg-logo="http://ccdn.ai:80/ss-img/white.png", FILMES
+#EXTBG:http://ccdn.ai:80/ss-img/filmes.jpg
+http://ccdn.ai:80/playlist.php?username=fabianasabbag&password=Fa71999914377&type=m3u_plus&output=ts&key=movie
+#EXTINF:0 type="playlist" tvg-logo="http://ccdn.ai:80/ss-img/white.png", SÉRIES
+#EXTBG:http://ccdn.ai:80/ss-img/seriados.jpg
+http://ccdn.ai:80/playlist.php?username=fabianasabbag&password=Fa71999914377&type=m3u_plus&output=ts&key=series
